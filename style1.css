@@ -1,0 +1,63 @@
+    body {
+    background-color: #3aa1ca; /* Fond bleu ciel */
+    color: #333;
+    font-family: 'Anton', sans-serif;
+    margin: 100px;
+    padding: 100px;
+    background-image: url(data:image/jpeg;base64,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); /* Remplace par le chemin de ton image */
+    background-size:cover; /* L'image couvre toute la page */
+    background-position: center; /* Centre l'image */
+    background-repeat: no-repeat; /* Évite que l'image se répète */
+    background-attachment: fixed; /* Fixe l'image pour un effet de parallaxe */
+    color: #ffffff; /* Couleur du texte */
+    margin: 100px;
+    padding: 100px;.rounded-image {
+    width: 100%; /* Largeur maximale pour ajuster selon le conteneur */
+    max-width: 500px; /* Limite la largeur de l'image */
+    border-radius: 15px; /* Arrondit les coins de 15 pixels */
+    
+}
+}
+
+h1, h2, h3 {
+    font-family: 'Anton', sans-serif;
+    font-weight: bold; /* La police est déjà épaisse */
+    text-transform: uppercase; /* Affiche tout en majuscules */
+    letter-spacing: 1px; /* Ajuste si nécessaire pour l’espacement */
+    color: #ffffff; /* Choisis la couleur qui convient à ton site */
+}
+ul {
+    flex-direction: row-reverse;
+}
+
+/* Arrondir les images */
+.rounded-image {
+    width: 100%; /* Largeur maximale pour ajuster selon le conteneur */
+    max-width: 500px; /* Limite la largeur de l'image */
+    border-radius: 15px; /* Arrondit les coins de 15 pixels */
+}
+
+.horizontal-list {
+    display: flex;
+    justify-content: center; /* Centre les éléments horizontalement */
+    gap: 20px; /* Espace entre les éléments */
+    list-style: none; /* Supprime les puces de la liste */
+    padding: 0; /* Enlève les marges intérieures */
+    margin: 0; /* Enlève les marges extérieures */
+}
+
+div{
+    width: 100%;
+}
+
+#cover{}
+
+#Discograhie{}
+
+.carte-album{
+    display: flex;
+    
+}
+
+
+
